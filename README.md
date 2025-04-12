@@ -26,8 +26,10 @@ Turn chaos into clean code. Generate, format, and copy your links in **Markdown*
 ## 📥 Installation
 
 1. ✅ Download from the [Chrome Web Store](https://chrome.google.com/webstore/detail/linknest/YOUR_EXTENSION_ID)
-2. ✅ OR download from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/linknest/)
-3. ✅ OR install manually:
+   ### 🚨Coming Soon🚨
+3. ✅ OR download from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/linknest/)
+   ### 🚨Coming Soon🚨
+5. ✅ OR install manually:
    - 📂 Clone this repository
    - 🧩 Load as an unpacked extension in your browser
 
