@@ -1,4 +1,4 @@
-# 🪹 LinkNest
+# 🔗🐀 LinkNest
 
 <div align="center">
   <img src="https://github.com/labrat-0/LinkNest/blob/main/LinkNest/icon128.png" alt="LinkNest Logo" width="120" height="120">
