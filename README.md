@@ -4,9 +4,14 @@
   <img src="https://github.com/labrat-0/LinkNest/blob/main/LinkNest/icon128.png" alt="LinkNest Logo" width="120" height="120">
 </div>
 
-📌 A modern, lightweight browser extension to create > save > copy hyperlinks/markdown/bbcode/html instantly.
+🧪 **Experimental/Edgy:**  
+ Turn chaos into clean code. Generate, format, and copy your links in **Markdown**, **HTML**, and **BBCode** — instantly.  
+**Lightweight. No bloat.**
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/QR_NEST_Main.png)](https://www.youtube.com/watch?v=AghIMwQu44A)
+
 
 ## ✨ Features
 
