@@ -11,7 +11,7 @@ Turn chaos into clean code. Generate, format, and copy your links in **Markdown*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/LinkNest_Main.png)](https://www.youtube.com/watch?v=AghIMwQu44A)
+[![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/LinkNest_Main.png)](https://www.youtube.com/shorts/Toxu3NTwdNk)
 
 ## ✨ Features
 
