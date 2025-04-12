@@ -18,7 +18,7 @@
 - 🌓 **Dark/Light Mode** - Work comfortably in any lighting condition
 - 🪶 **Lightweight** - Minimal resource usage with fast performance
 
-## 📥 Installation
+## 📥 Installation (Coming Soon! Will need to run in DEV MODE in browser for now --load package)
 
 1. ✅ Download from the [Chrome Web Store](https://chrome.google.com/webstore/detail/linknest/YOUR_EXTENSION_ID)
 2. ✅ OR download from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/linknest/)
