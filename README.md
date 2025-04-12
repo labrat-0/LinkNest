@@ -1,17 +1,17 @@
-# 🔗🐀 LinkNest
+# 🐀 LinkNest
 
 <div align="center">
   <img src="https://github.com/labrat-0/LinkNest/blob/main/LinkNest/icon128.png" alt="LinkNest Logo" width="120" height="120">
 </div>
 
 🧪 **Experimental/Edgy:**  
- Turn chaos into clean code. Generate, format, and copy your links in **Markdown**, **HTML**, and **BBCode** — instantly.  
-**Lightweight. No bloat.**
+Turn chaos into clean code. Generate, format, and copy your links in **Markdown**, **HTML**, and **BBCode** — instantly.  
+                                      **Lightweight. No bloat.**
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/QR_NEST_Main.png)](https://www.youtube.com/watch?v=AghIMwQu44A)
 
+[![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/LinkNest_Main.png)](https://www.youtube.com/watch?v=AghIMwQu44A)
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@
 - 🌓 **Dark/Light Mode** - Work comfortably in any lighting condition
 - 🪶 **Lightweight** - Minimal resource usage with fast performance
 
-## 📥 Installation (Coming Soon! Will need to run in DEV MODE in browser for now --load package)
+## 📥 Installation
 
 1. ✅ Download from the [Chrome Web Store](https://chrome.google.com/webstore/detail/linknest/YOUR_EXTENSION_ID)
 2. ✅ OR download from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/linknest/)
