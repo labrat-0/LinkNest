@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "LinkNest",
+  "version": "1.0.0",
+  "author": "Mick Donahue | LabRat",
+  "description": "A modern, lightweight tool to create > save > copy hyperlinks/markdown/bbcode/html instantly.",
+  "permissions": [
+    "clipboardWrite",
+    "storage"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "LinkNest"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "linknest@labrat.dev"
+    }
+  }
+}

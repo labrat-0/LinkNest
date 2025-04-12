@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>LinkNest</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>LinkNest</h1>
+      <button id="themeToggle" class="icon-button" title="Toggle Theme">
+        <span class="material-icons">dark_mode</span>
+      </button>
+    </div>
+
+    <div class="input-group">
+      <label for="url">URL</label>
+      <input type="text" id="url" placeholder="Paste URL here" autocomplete="off" />
+    </div>
+    
+    <div class="input-group">
+      <label for="text">Display Text</label>
+      <div class="input-with-button">
+        <input type="text" id="text" placeholder="Text to display" autocomplete="off" />
+        <button id="copyDisplayText" class="icon-button" title="Copy Text">
+          <span class="material-icons">content_copy</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="format-group">
+      <label for="format">Format</label>
+      <select id="format">
+        <option value="html">HTML Link</option>
+        <option value="markdown">Markdown</option>
+        <option value="bbcode">BBCode</option>
+      </select>
+    </div>
+
+    <div class="preview-container">
+      <div class="preview-header">
+        <label>Preview</label>
+        <div class="preview-tabs">
+          <button class="tab-button active" data-tab="display">Display</button>
+          <button class="tab-button" data-tab="code">Code</button>
+        </div>
+      </div>
+      <div class="preview-box">
+        <div class="preview-display active" id="displayPreview"></div>
+        <div class="preview-code" id="codePreview"></div>
+      </div>
+    </div>
+
+    <div class="button-group">
+      <button id="copyAsHyperlink" class="primary-button">
+        <span class="material-icons">link</span>
+        HTML
+      </button>
+      <button id="copyAsMarkdown" class="primary-button">
+        <span class="material-icons">code</span>
+        Markdown
+      </button>
+    </div>
+
+    <div class="button-group">
+      <button id="saveLink" class="secondary-button">
+        <span class="material-icons">bookmark_add</span>
+        Save Link
+      </button>
+    </div>
+
+    <div class="saved-links-container">
+      <div class="saved-links-header">
+        <label>Saved Links</label>
+        <button id="clearSavedLinks" class="icon-button" title="Clear All Saved Links">
+          <span class="material-icons">delete_sweep</span>
+        </button>
+      </div>
+      <div id="savedLinksList" class="saved-links-list">
+        <!-- Saved links will be inserted here dynamically -->
+        <div class="empty-state">No saved links yet</div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <a href="https://github.com/labrat-0" target="_blank" rel="noopener noreferrer" class="github-link">
+        <img src="github-mark.png" alt="GitHub" class="github-icon" />
+        @labrat-0
+      </a>
+    </div>
+  </div>
+  <div id="copySuccess" class="notification">Copied to clipboard!</div>
+  <script src="popup.js"></script>
+</body>
+</html>
