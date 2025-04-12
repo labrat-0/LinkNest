@@ -1,102 +1,71 @@
-# 🪹 QR Nest
+# 🪹 LinkNest
 
-> 🚀 A modern, lightweight browser extension for creating, customizing, and managing QR codes.
+<div align="center">
+  <img src="https://github.com/labrat-0/LinkNest/blob/main/LinkNest/icon128.png" alt="LinkNest Logo" width="120" height="120">
+</div>
 
-[![Chrome Web Store](https://img.shields.io/badge/-Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/category/extensions)
-[![Firefox Add-ons](https://img.shields.io/badge/-Firefox%20Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/extensions/)
+🧪 **Experimental/Edgy:**  
+Turn chaos into clean code. Generate, format, and copy your links in **Markdown**, **HTML**, and **BBCode** — instantly.  
+                                      **Lightweight. No bloat.**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/icon128.png" alt="QRNest Logo" width="128" height="128">
-</p>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/LinkNest_Main.png)](https://www.youtube.com/watch?v=AghIMwQu44A)
 
 ## ✨ Features
 
-### 📱 QR Code Content Types
-- 🔗 Generate QR codes for URLs
-- 📝 Create plain text QR codes
-- 📶 Generate Wi-Fi network configuration QR codes
-- 👤 Create contact information QR codes (vCard)
-- 📧 Generate email QR codes with subject and body
-- 💬 Create SMS QR codes with message
-
-### 🎨 Customization Options
-- 🖌️ Choose foreground and background colors
-- 🛡️ Adjust QR code error correction level
-- 📏 Customize QR code size
-- 🖼️ Add logo/image overlay to QR codes
-- 🌙 Dark mode support
-
-### 📤 Export & Sharing
-- 📋 Copy QR codes directly to your clipboard
-- 📥 Download QR codes as PNG with adjustable sizes
-- 🔄 Download QR codes as SVG for vector quality
-- 🔎 Choose transparent background option
-
-### 🌐 Browser Integration
-- 🖱️ Right-click context menu to generate QR for any link
-- ✂️ Right-click to create QR code from selected text
-- ⌨️ Keyboard shortcut (Ctrl+Shift+Q) to generate QR for current page
-
-### 📚 Organization
-- 🖼️ Save QR codes with thumbnails for quick reference
-- 🏷️ Categorize with tags for easy organization
-- 🔍 Search through saved QR codes by content, type, or tags
-- 🔄 Drag and drop to reorder saved QR codes
-
-## 🚀 Usage
-
-1. 🔘 Click the QR Nest icon in your browser toolbar
-2. 📋 Select a QR code type (URL, text, Wi-Fi, contact, email, SMS)
-3. ✏️ Enter the required information
-4. 🎯 Click "Generate QR Code" to create your QR code
-5. 🎨 Customize appearance using the "Customize" button
-6. 📤 Copy or download the QR code using the buttons below
-7. 💾 Optionally save QR codes for later use with "Save"
-
-### ⌨️ Keyboard Shortcut
-- Press `Ctrl+Shift+Q` (or `Cmd+Shift+Q` on Mac) to generate a QR code for the current page
-
-### 🖱️ Context Menu
-- Right-click on any link and select "Generate QR code for this link"
-- Right-click on a page and select "Generate QR code for this page"
-- Select text, right-click, and select "Generate QR code for selected text"
-
-## 💻 Development
-
-QR Nest is built using:
-- 🌐 HTML, CSS, and JavaScript
-- 📊 [QRCode.js](https://github.com/davidshimjs/qrcodejs) for QR code generation
-- 🎨 [Spectrum](https://bgrins.github.io/spectrum/) for color picker functionality
-- 🧩 Chrome/Firefox extension APIs
+- 🚀 **Create Links Quickly** - Turn any URL into properly formatted hyperlinks in seconds
+- 🔄 **Multiple Format Support** - Generate HTML, Markdown, or BBCode with a single click
+- 👁️ **Live Preview** - See exactly how your link will look in real-time
+- 💾 **Save & Organize** - Store frequently used links for easy access 
+- 📋 **Copy with One Click** - Instantly copy links to clipboard in your preferred format
+- 🌓 **Dark/Light Mode** - Work comfortably in any lighting condition
+- 🪶 **Lightweight** - Minimal resource usage with fast performance
 
 ## 📥 Installation
 
-### 🔵 Chrome
-1. Download the extension files
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable "Developer mode" in the top right
-4. Click "Load unpacked" and select the QR Nest directory
+1. ✅ Download from the [Chrome Web Store](https://chrome.google.com/webstore/detail/linknest/YOUR_EXTENSION_ID)
+2. ✅ OR download from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/linknest/)
+3. ✅ OR install manually:
+   - 📂 Clone this repository
+   - 🧩 Load as an unpacked extension in your browser
 
-### 🔶 Firefox
-1. Download the extension files
-2. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`
-3. Click "Load Temporary Add-on" and select any file in the QR Nest directory
+## 🛠️ Usage
 
-## 📝 Feedback & Support
+1. 🖱️ Click the LinkNest icon in your browser toolbar
+2. 📝 Paste a URL in the URL field
+3. ✏️ Add optional display text
+4. 🔢 Select your preferred format (HTML, Markdown, BBCode)
+5. 🔄 Click the corresponding button to copy the formatted link
+6. 💾 Use the "Save Link" button to store links you use frequently
 
-Found a bug? Have a feature request? We'd love to hear from you!
+## 🔗 Supported Link Formats
 
-- 🐛 [Submit an issue](https://github.com/labrat-0/qrnest/issues)
-- 💬 [Send feedback](mailto:feedback@example.com)
+- 🌐 **HTML** - `<a href="url">display text</a>`
+- 📝 **Markdown** - `[display text](url)`
+- 🔠 **BBCode** - `[url=url]display text[/url]`
 
-## 🙏 Credits
+## 🔒 Privacy
 
-Created with ❤️ by Mick Donahue | LabRat
+LinkNest respects your privacy:
+- 🛡️ No tracking or analytics
+- 🔐 No data sent to external servers
+- 💾 Saved links stored in your browser's local storage only
 
-Find me on GitHub: [@labrat-0](https://github.com/labrat-0)
+## 👨‍💻 Contributing
+
+Contributions are welcome! Feel free to:
+- 🐛 Report bugs
+- 💡 Suggest features
+- 🧩 Submit pull requests
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-<p align="center">
-  <small>© 2023 QR Nest. All rights reserved.</small>
-</p> 
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/labrat-0">@labrat-0</a></sub>
+</div> 
