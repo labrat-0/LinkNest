@@ -12,6 +12,17 @@ Turn chaos into clean code. Generate, format, and copy your links in **Markdown*
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/LinkNest_Main.png)](https://www.youtube.com/shorts/Toxu3NTwdNk)
+## 🔒 Privacy First! 🛡️
+
+We value your privacy like a squirrel values its acorns! 🌰🐿️  
+Check out our full **Privacy Policy** here 👉 [📄 privacy-policy.md](https://gist.github.com/labrat-0/857ee9233b4074e7678e90af5b47d715)
+
+📌 TL;DR:
+- 🚫 We don’t collect your personal data.
+- ✅ Everything runs locally unless otherwise stated.
+- 🔐 Your info stays yours — period.
+
+Got questions? Let’s chat! 💬
 
 ## ✨ Features
 
