@@ -4,6 +4,21 @@
   <img src="https://github.com/labrat-0/LinkNest/blob/main/LinkNest/icon128.png" alt="LinkNest Logo" width="120" height="120">
 </div>
 
+## 🌐 Available Web Stores
+
+[![Chrome Web Store](https://img.shields.io/badge/Google_Chrome-Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/category/extensions)
+
+---
+
+## ⏳ Coming Soon
+
+---
+
+[![Edge Add-ons](https://img.shields.io/badge/Microsoft_Edge-Add--on-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/)
+[![Firefox Add-ons](https://img.shields.io/badge/Firefox-Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/extensions/)
+
+
+
 🧪 **Experimental/Edgy:**  
 Turn chaos into clean code. Generate, format, and copy your links in **Markdown**, **HTML**, and **BBCode** — instantly.  
                                       **Lightweight. No bloat.**
