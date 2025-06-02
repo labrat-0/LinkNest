@@ -6,7 +6,7 @@
 
 ## 🌐 Available Web Stores
 
-[![Chrome Web Store](https://img.shields.io/badge/Google_Chrome-Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/category/extensions)
+[![Chrome Web Store](https://img.shields.io/badge/Google_Chrome-Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/linknest/ofglahlcjndpehoinkkmkmpokmhahdac)
 
 ---
 
@@ -51,7 +51,7 @@ Got questions? Let’s chat! 💬
 
 ## 📥 Installation
 
-1. ✅ Download from the [Chrome Web Store](https://chrome.google.com/webstore/detail/linknest/YOUR_EXTENSION_ID)
+1. ✅ Download from the [Chrome Web Store](https://chromewebstore.google.com/detail/linknest/ofglahlcjndpehoinkkmkmpokmhahdac)
    ### 🚨Coming Soon🚨
 3. ✅ OR download from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/linknest/)
    ### 🚨Coming Soon🚨
