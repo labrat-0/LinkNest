@@ -10,21 +10,10 @@
 
 ---
 
-## ⏳ Coming Soon
-
----
-
-[![Edge Add-ons](https://img.shields.io/badge/Microsoft_Edge-Add--on-0078D7?style=flat-square&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/)
-[![Firefox Add-ons](https://img.shields.io/badge/Firefox-Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/extensions/)
-
-
 
 🧪 **Experimental/Edgy:**  
 Turn chaos into clean code. Generate, format, and copy your links in **Markdown**, **HTML**, and **BBCode** — instantly.  
                                       **Lightweight. No bloat.**
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [![Watch the video](https://raw.githubusercontent.com/labrat-0/LinkNest/main/LinkNest/LinkNest_Main.png)](https://www.youtube.com/shorts/Toxu3NTwdNk)
 ## 🔒 Privacy First! 🛡️
